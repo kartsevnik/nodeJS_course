@@ -1,0 +1,14 @@
+{
+  "name": "lection_02",
+  "version": "1.0.0",
+  "description": "lection 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
